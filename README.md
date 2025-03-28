@@ -34,9 +34,9 @@ Decentralized Identity System (DIS) is a blockchain-based decentralized identity
 # Acknowledgements
 DIS is built on top of the following open-source projects:
 
--Bitcoin
--Ethereum
--Indy-SDK
--Sovrin
--Web3.js
--LatticeCrypto
+-Bitcoin 
+-Ethereum 
+-Indy-SDK 
+-Sovrin 
+-Web3.js 
+-LatticeCrypto 
