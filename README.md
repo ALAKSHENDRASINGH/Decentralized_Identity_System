@@ -5,17 +5,17 @@ A decentralized identity system built on blockchain technology, allowing users t
 Decentralized Identity System (DIS) is a blockchain-based decentralized identity system that allows users to securely manage and control their digital identities without relying on centralized authorities.
 
 # Features
-Decentralized identity management using blockchain technology
-Secure and private authentication using decentralized identifiers (DIDs)
-Fine-grained access control using decentralized identifier (DID)-based authorization
-Privacy-preserving verification using decentralized identifier (DID)-based verification
-Scalability and interoperability using sidechain and cross-chain atomic swap systems
-Post-quantum security using lattice-based cryptography
-Decentralized policy management using decentralized identifier (DID)-based policy management
-Decentralized access control using decentralized identifier (DID)-based access control
-Decentralized entitlement management using decentralized identifier (DID)-based entitlement management
-Decentralized attestation using decentralized identifier (DID)-based attestation
-Decentralized certification using decentralized identifier (DID)-based certification
-Decentralized application (dApp) development and deployment
-Decentralized exchange (DEX) for trustless asset exchange
-Decentralized marketplace (DSM) for decentralized trading of goods and services
+1. Decentralized identity management using blockchain technology
+2. Secure and private authentication using decentralized identifiers (DIDs)
+3. Fine-grained access control using decentralized identifier (DID)-based authorization
+4. Privacy-preserving verification using decentralized identifier (DID)-based verification
+5. Scalability and interoperability using sidechain and cross-chain atomic swap systems
+6. Post-quantum security using lattice-based cryptography
+7. Decentralized policy management using decentralized identifier (DID)-based policy management
+8. Decentralized access control using decentralized identifier (DID)-based access control
+9. Decentralized entitlement management using decentralized identifier (DID)-based entitlement management
+10. Decentralized attestation using decentralized identifier (DID)-based attestation
+11. Decentralized certification using decentralized identifier (DID)-based certification
+12. Decentralized application (dApp) development and deployment
+13. Decentralized exchange (DEX) for trustless asset exchange
+14. Decentralized marketplace (DSM) for decentralized trading of goods and services
