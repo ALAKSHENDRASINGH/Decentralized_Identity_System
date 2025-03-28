@@ -19,3 +19,24 @@ Decentralized Identity System (DIS) is a blockchain-based decentralized identity
 12. Decentralized application (dApp) development and deployment
 13. Decentralized exchange (DEX) for trustless asset exchange
 14. Decentralized marketplace (DSM) for decentralized trading of goods and services
+
+# Directory Structure
+- blockchain: Contains the implementation of the blockchain.
+- crypto: Contains various cryptographic functions and libraries.
+- did: Contains the implementation of decentralized identifiers (DIDs).
+- did-resolver: Contains the code for resolving decentralized identifiers (DIDs).
+- did-manager: Contains the code for managing decentralized identifiers (DIDs).
+- service-auth: Contains the code for authentication service.
+- service-authz: Contains the code for authorization service.
+- service-verification: Contains the code for verification service.
+- index.js: Contains the entry point of the application, which imports and uses various modules.
+
+# Acknowledgements
+DIS is built on top of the following open-source projects:
+
+-Bitcoin
+-Ethereum
+-Indy-SDK
+-Sovrin
+-Web3.js
+-LatticeCrypto
